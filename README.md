@@ -9,6 +9,8 @@ An end-to-end analysis of the Brazilian Olist e-commerce dataset (Kaggle), built
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist (Kaggle): 9 tables covering orders, items, customers, sellers, products, payments and reviews (about 99K orders, 2016-2018).
 
+Source: [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ## Dashboard Pages
 
 ### 1. Executive Overview
